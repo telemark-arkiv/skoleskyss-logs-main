@@ -38,10 +38,6 @@ Get next log from queue
 
 Deletes log from queue
 
-### ```GET /queue/count```
-
-Get number of logs in queue
-
 ### Related
 
 - [skoleskyss-web](https://github.com/telemark/skoleskyss-web) web frontend for skoleskyss
