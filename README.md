@@ -26,6 +26,10 @@ Search logs
 
 Update a logs list of statuses
 
+### ```POST /loqs/:id/resultat```
+
+Sets content of resultat for log
+
 ### ```GET /queue/next```
 
 Get next log from queue

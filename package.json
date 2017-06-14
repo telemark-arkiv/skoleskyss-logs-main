@@ -1,7 +1,7 @@
 {
   "name": "skoleskyss-logs-main",
   "description": "Main logs for skoleskyss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "private": true,
   "author": {
