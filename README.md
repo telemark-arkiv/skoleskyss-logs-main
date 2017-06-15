@@ -14,6 +14,10 @@ All API calls needs an Authorization header with valid jwt
 
 Add a new log
 
+### ```GET /loqs/latest```
+
+Get a list of the 40 latest entries
+
 ### ```GET /loqs/:id```
 
 Get a spesific log
