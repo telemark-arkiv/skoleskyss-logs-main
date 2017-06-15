@@ -1,7 +1,7 @@
 {
   "name": "skoleskyss-logs-main",
   "description": "Main logs for skoleskyss",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "license": "MIT",
   "private": true,
   "author": {
@@ -53,7 +53,7 @@
     "test-listen": "1.0.2"
   },
   "dependencies": {
-    "jsonwebtoken": "7.4.1",
+    "jsonwebtoken": "7.4.0",
     "marked": "0.3.6",
     "micro": "7.3.3",
     "mongojs": "2.4.0",
