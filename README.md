@@ -38,6 +38,10 @@ Sets content of resultat for log
 
 Get next log from queue
 
+```bash
+$ curl -v -H "Authorization: <INSERT TOKEN>" https://logs.service.io/queue/next
+```
+
 ### ```DELETE /queue/:id```
 
 Deletes log from queue
